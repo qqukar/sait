@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>взвешенный граф</title>
+	<body bgcolor="#FFF" background="хаха.jpg">
+	</body>
+	<h1 style="color:#A52A2A"><center>взвешенный граф<div class=""></div></center></h1>
+	<br>
